@@ -1,2 +1,102 @@
 # VisualG
-# 🧠 Projetos em VisualG – Lógica de Programação e Algoritmos  Este repositório reúne dois projetos desenvolvidos em **VisualG (Portugol)** durante meus estudos em um curso de **Lógica de Programação e Algoritmos**.  O objetivo é demonstrar minha capacidade de analisar problemas, desenvolver algoritmos, aplicar programação estruturada e construir soluções utilizando boas práticas de organização, validação de dados e manipulação de estruturas em memória.  ---  # 📂 Projetos  ## 🏦 Sistema Bancário  Sistema desenvolvido para simular operações bancárias por meio de um menu interativo.  ### Funcionalidades  * Criação de contas * Login utilizando CPF e senha * Depósito * Saque * Transferência entre contas * Consulta de saldo * Alteração de senha * Exclusão de contas * Controle de contas cadastradas * Validação de CPF, senha e saldo  ### Conceitos aplicados  * Variáveis * Vetores * Estruturas condicionais * Estruturas de repetição * Procedimentos * Modularização * Validação de dados * Controle de fluxo * Manipulação de dados em memória  ---  ## 📚 Sistema de Biblioteca  Sistema desenvolvido para simular o gerenciamento de uma biblioteca.  ### Funcionalidades  * Cadastro de livros * Cadastro de usuários * Empréstimo de livros * Devolução de livros * Pesquisa de livros por título * Pesquisa de livros por autor * Controle de disponibilidade dos livros * Validação de CPF e dados dos usuários  ### Conceitos aplicados  * Variáveis * Vetores * Estruturas condicionais * Estruturas de repetição * Procedimentos * Modularização * Pesquisa sequencial * Validação de dados * Manipulação de registros em memória  ---  # 🎯 Competências demonstradas  Durante o desenvolvimento destes projetos foram aplicados conceitos fundamentais da programação estruturada, incluindo:  * Lógica de programação * Algoritmos * Estruturas de decisão * Estruturas de repetição * Modularização * Procedimentos * Manipulação de vetores * Pesquisa de dados * Validação de entradas * Controle de fluxo * Organização de código * Resolução de problemas  ---  # 🛠 Tecnologias  * VisualG * Portugol  ---  # 📁 Estrutura do repositório  ```text 📦 projetos-visualg ├── SISTEMABANCARIO.ALG ├── SISTEMA-DE-BIBLIOTECA.ALG └── README.md ```  ---  # 🚀 Como executar  1. Instale o VisualG. 2. Abra um dos arquivos `.ALG`. 3. Execute o algoritmo no ambiente do VisualG. 4. Utilize o menu interativo para testar as funcionalidades do sistema.  ---  # 🎓 Objetivo  Os projetos deste repositório foram desenvolvidos como parte dos meus estudos em um curso de **Lógica de Programação e Algoritmos**, com o objetivo de fortalecer os fundamentos da programação antes do desenvolvimento de aplicações em linguagens como Java, JavaScript, Python e C#.  Este repositório representa minha evolução no desenvolvimento de algoritmos, organização de código e resolução de problemas utilizando programação estruturada.  ---  ## 👨‍💻 Autor  **David Medeiros de Moraes**  Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack e na construção de uma base sólida em algoritmos, estrutura de dados e engenharia de software.
+# Sistema Bancário em VisualG
+
+> Simulação de um sistema bancário desenvolvida em VisualG com foco na prática de lógica de programação, algoritmos estruturados e manipulação de dados.
+
+## Objetivo
+
+Este projeto foi desenvolvido para consolidar conceitos fundamentais de programação antes da transição para linguagens como C, Java, Python e JavaScript.
+
+O sistema busca reproduzir operações comuns de um banco utilizando apenas os recursos disponíveis no VisualG, exercitando:
+
+- lógica de programação;
+- estruturas de decisão;
+- estruturas de repetição;
+- procedimentos;
+- vetores;
+- validação de dados;
+- organização de código.
+
+---
+
+## Funcionalidades
+
+- Criação de contas
+- Login utilizando CPF e senha
+- Alteração de conta ativa
+- Depósito
+- Saque
+- Transferência entre contas
+- Consulta de saldo
+- Alteração de senha
+- Exclusão de conta
+- Validação de CPF existente
+- Validação de saldo insuficiente
+- Controle de contas cadastradas
+
+---
+
+## Conceitos utilizados
+
+- Algoritmos estruturados
+- Procedimentos
+- Vetores
+- Estruturas condicionais (`SE`)
+- Estruturas de repetição (`PARA`)
+- Variáveis compostas
+- Validação de entradas
+- Simulação de persistência em memória
+
+---
+
+## Tecnologias
+
+- VisualG
+- Portugol
+
+---
+
+## Estrutura do projeto
+
+```
+SistemaBancario.alg
+README.md
+```
+
+---
+
+## Como executar
+
+1. Instale o VisualG.
+2. Abra o arquivo `SistemaBancario.alg`.
+3. Execute o algoritmo.
+4. Utilize o menu para acessar todas as funcionalidades.
+
+---
+
+## Limitações
+
+Por ser desenvolvido em VisualG, os dados permanecem apenas durante a execução do programa.
+
+Ao encerrar o algoritmo, todas as informações são perdidas.
+
+---
+
+## Aprendizados
+
+Durante este projeto foram praticados:
+
+- organização de código;
+- modularização utilizando procedimentos;
+- desenvolvimento de menus interativos;
+- validação de dados do usuário;
+- manipulação de vetores;
+- construção de um fluxo completo de operações bancárias.
+
+---
+
+## Autor
+
+**David Medeiros de Moraes**
+
+Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento Full Stack.
